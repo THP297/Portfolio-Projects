@@ -7,9 +7,9 @@ export default function Flask() {
                   <p>A Web application for noting text and images using Python and its framework Django.</p>
                   <p>Skills: Flask, HTML, CSS </p>
                   <p>Achievements: <br />
-                      - Implemented CRUD operations for comprehensive data handling <br />
-                      - Proficient in <strong>RESTful API</strong> design and consumption. <br />
-                      - Implemented effective error handling mechanisms.</p>
+                    - Demonstrate the ability to use <strong>SQL</strong> in implementing CRUD operations for comprehensive data handling . <br />
+                    - Proficient in <strong>RESTful API</strong> design and consumption. <br />
+                    - Implemented effective error handling mechanisms.</p>
               </div>
               <div style={{ flex: 1 }}>
                   <p style={{ fontStyle: "italic" }}>Demo Video</p>
