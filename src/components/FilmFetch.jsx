@@ -7,7 +7,10 @@ export default function FilmFetch() {
           <p style={{fontStyle:"italic"}}>Description</p>
           <p>This project appears to be a web application for a movie database.</p>
           <p>Skills: HTML, CSS, Javascript, OOP concepts</p>
-          <p>Achievements: Developed the application using modern JavaScript, implementing over <strong>20+</strong> different classes and functions. Utilized ES6 features and implemented various design patterns such as <strong>Observer and Template Method</strong>.</p>
+          <p>Achievements: <br />
+
+            - Developed the application using modern JavaScript, implementing over <strong>20+</strong> different classes and functions. <br />
+            - Using design patterns such as <strong>Template Method</strong> to write reusable code that fetch API to create <strong>4</strong> different sections in index page. Observer pattern to notify the new action from user.</p>
         </div>
         <div style={{ flex: 1 }}>
           <p style={{fontStyle:"italic"}}>Demo Video</p>   
